@@ -10,8 +10,8 @@ I combine my expertise in software development and data analysis with over 5 yea
 
 ### 🚀 My Tech Stack:
 
-* **Languages:** Python, Java, SQL, Dart
-* **Frameworks & Libraries:**  Flet, Flutter, Pandas, MySQL Connector
+* **Languages:** Python, Java, SQL
+* **Frameworks & Libraries:**  Flet, Pandas, MySQL Connector
 * **Databases:**  MySQL, PostgreSQL
 * **Business Intelligence:** Power BI
 * **Other Technologies:** Docker, Firebase, Cloud Computing, Scrum, Kanban
