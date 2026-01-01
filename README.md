@@ -45,16 +45,6 @@ I don't just write code; I design systems that modernize public infrastructure, 
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Nome do Projeto 1]** | *Ex: An AI-powered tool that summarizes judicial documents.* Reduced analysis time by 40%. | `Python` `OpenAI API` `FastAPI` |
-| **[Nome do Projeto 2]** | *Ex: Automated pipeline for University Data ingestion.* | `Java` `Spring Boot` `SQL` |
-| **[Nome do Projeto 3]** | *Ex: Dashboard for public spending monitoring.* | `Power BI` `SQL` |
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
